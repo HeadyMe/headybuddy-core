@@ -1,0 +1,12 @@
+{
+  "name": "HeadyBuddy",
+  "tagline": "Your AI Companion",
+  "description": "Your personal AI buddy — persistent memory, creative tools, and always-on chat companionship.",
+  "accent": "#fb923c",
+  "features": [
+    {"icon": "🧑‍💻", "title": "Always-On Chat", "desc": "Conversational AI with persistent memory"},
+    {"icon": "🎨", "title": "Creative Suite", "desc": "Image generation, music, and content creation"},
+    {"icon": "📝", "title": "Smart Notes", "desc": "AI-powered note-taking with auto-organization"},
+    {"icon": "🧠", "title": "Personality Engine", "desc": "Learns your preferences over time"}
+  ]
+}
